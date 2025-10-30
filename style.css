@@ -8,7 +8,7 @@ body {
 
 /* HERO */
 .hero {
-  background: url('./img/pngtree-gym-filled-with-machines-and-equipment-picture-image_2774012.jpg') no-repeat center/cover;
+  background: url('img/pngtree-gym-filled-with-machines-and-equipment-picture-image_2774012.jpg') no-repeat center/cover;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -161,3 +161,4 @@ footer {
 .footer-links a:hover {
   color: #fff;
 }
+
