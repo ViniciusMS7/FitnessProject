@@ -8,7 +8,7 @@ body {
 
 /* HERO */
 .hero {
-  background: url('img.jpg') no-repeat center/cover;
+  background: url('./img.jpg') no-repeat center/cover;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -161,6 +161,7 @@ footer {
 .footer-links a:hover {
   color: #fff;
 }
+
 
 
 
